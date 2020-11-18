@@ -1,0 +1,8 @@
+C:\Users\Davi\source\repos\DevShop\DevShop.Domain\bin\Debug\netstandard2.0\DevShop.Domain.deps.json
+C:\Users\Davi\source\repos\DevShop\DevShop.Domain\bin\Debug\netstandard2.0\DevShop.Domain.dll
+C:\Users\Davi\source\repos\DevShop\DevShop.Domain\bin\Debug\netstandard2.0\DevShop.Domain.pdb
+C:\Users\Davi\source\repos\DevShop\DevShop.Domain\obj\Debug\netstandard2.0\DevShop.Domain.AssemblyInfoInputs.cache
+C:\Users\Davi\source\repos\DevShop\DevShop.Domain\obj\Debug\netstandard2.0\DevShop.Domain.AssemblyInfo.cs
+C:\Users\Davi\source\repos\DevShop\DevShop.Domain\obj\Debug\netstandard2.0\DevShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Davi\source\repos\DevShop\DevShop.Domain\obj\Debug\netstandard2.0\DevShop.Domain.dll
+C:\Users\Davi\source\repos\DevShop\DevShop.Domain\obj\Debug\netstandard2.0\DevShop.Domain.pdb
